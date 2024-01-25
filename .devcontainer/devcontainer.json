@@ -13,7 +13,8 @@
 			"extensions": [
 				"ms-azuretools.vscode-docker",
 				"GitHub.copilot",
-				"rust-lang.rust-analyzer"
+				"rust-lang.rust-analyzer",
+				"ms-vscode.makefile-tools"
 			]
 		}
 	}
